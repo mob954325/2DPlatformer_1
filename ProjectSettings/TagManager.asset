@@ -4,14 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Ground
+  - EnemyAttack
   - Enemy
-  - PlayerBullet
-  - EnemyBullet
-  - Ladder
-  - Platform
-  - StageEnd
-  - Block
-  - CheckPoint
+  - PlayerAttack
+  - Interaction
+  - Shield
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -19,12 +18,12 @@ TagManager:
   - 
   - Water
   - UI
-  - Enemy
-  - Bullet
-  - Player
-  - Platform
-  - BossAttack
-  - PlayerDash
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -46,12 +45,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: BackGround
-    uniqueID: 1020780753
-    locked: 0
-  - name: Objects
-    uniqueID: 3648995997
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
